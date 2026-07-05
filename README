@@ -1,1 +1,105 @@
+# IoT-Based Pest Alerting System Using Raspberry Pi 4B
 
+## Overview
+
+The IoT-Based Pest Alerting System is a smart agriculture solution developed using Raspberry Pi 4B+, IoT sensors, Artificial Intelligence, and Computer Vision technologies.
+
+The system continuously monitors environmental conditions such as temperature, humidity, soil moisture, and rainfall while simultaneously detecting pests using a camera and AI-based image processing.
+
+When pests are detected, the system automatically sends email alerts to farmers and updates a web dashboard for remote monitoring.
+
+---
+
+## Features
+
+* Real-time Pest Detection
+
+* Temperature Monitoring
+
+* Humidity Monitoring
+
+* Soil Moisture Monitoring
+
+* Rainfall Detection
+
+* Email Alert Notifications
+
+* Flask Web Dashboard
+
+* Cloud-Based Monitoring
+
+* Raspberry Pi Edge Computing
+
+---
+
+## Hardware Components
+
+* Raspberry Pi 4B+
+
+* DHT11 Temperature and Humidity Sensor
+
+* YL-69 Soil Moisture Sensor
+
+* YL-83 Rain Sensor
+
+* Logitech USB Camera
+
+* Wi-Fi Module (On-board)
+
+---
+
+## Software Used
+
+* Python
+
+* Flask
+
+* OpenCV
+
+* Azure Custom Vision
+
+* Raspberry Pi OS
+
+* Thonny IDE
+
+---
+
+## System Architecture
+
+Sensors + Camera → Raspberry Pi 4B+ → AI Pest Detection → Cloud Storage → Email Alert → Farmer Dashboard
+
+---
+
+## Applications
+
+* Smart Agriculture
+
+* Pest Monitoring
+
+* Precision Farming
+
+* Crop Health Monitoring
+
+* Automated Farm Management
+
+---
+
+## Future Scope
+
+* Mobile Application Integration
+
+* YOLOv8 Local Deployment
+
+* SMS Notifications
+
+* Drone-Based Pest Monitoring
+
+* Smart Irrigation Integration
+
+---
+
+V. Raghuveer
+
+Department of Electronics and Communication Engineering
+
+VVIT
